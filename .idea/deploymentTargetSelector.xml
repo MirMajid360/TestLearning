@@ -25,6 +25,9 @@
       <SelectionState runConfigName="test_visibility_title_next_button()">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="test_backPress_toMainActivity()">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>
